@@ -1,0 +1,33 @@
+2022/10/31-09:31:40.076 e90 Reusing MANIFEST C:\Programovanie\Gauge\FinalTest\chromeDebug\Default\IndexedDB\https_greysonconsultingsro.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/31-09:31:40.077 e90 Recovering log #38
+2022/10/31-09:31:40.098 e90 Reusing old log C:\Programovanie\Gauge\FinalTest\chromeDebug\Default\IndexedDB\https_greysonconsultingsro.lightning.force.com_0.indexeddb.leveldb/000038.log 
+2022/10/31-09:31:43.949 60c Level-0 table #43: started
+2022/10/31-09:31:43.969 60c Level-0 table #43: 2252059 bytes OK
+2022/10/31-09:31:43.971 60c Delete type=0 #38
+2022/10/31-09:31:46.972 60c Compacting 1@1 + 1@2 files
+2022/10/31-09:31:46.988 60c Generated table #44@1: 1138 keys, 922442 bytes
+2022/10/31-09:31:46.988 60c Compacted 1@1 + 1@2 files => 922442 bytes
+2022/10/31-09:31:46.990 60c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-09:31:46.990 60c Delete type=2 #40
+2022/10/31-09:31:46.990 60c Delete type=2 #43
+2022/10/31-09:31:54.867 be94 Level-0 table #46: started
+2022/10/31-09:31:54.894 be94 Level-0 table #46: 2059658 bytes OK
+2022/10/31-09:31:54.896 be94 Delete type=0 #42
+2022/10/31-09:32:21.995 be94 Compacting 1@1 + 1@2 files
+2022/10/31-09:32:22.008 be94 Generated table #47@1: 1113 keys, 612099 bytes
+2022/10/31-09:32:22.008 be94 Compacted 1@1 + 1@2 files => 612099 bytes
+2022/10/31-09:32:22.009 be94 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-09:32:22.009 be94 Delete type=2 #44
+2022/10/31-09:32:22.009 be94 Delete type=2 #46
+2022/10/31-09:33:25.562 58c8 Level-0 table #49: started
+2022/10/31-09:33:25.572 58c8 Level-0 table #49: 907990 bytes OK
+2022/10/31-09:33:25.574 58c8 Delete type=0 #45
+2022/10/31-09:33:25.574 58c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/31-09:33:25.575 58c8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x01\x1f\x03\x00\x80a<\x90}xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 40615 : 1
+2022/10/31-09:33:25.575 58c8 Compacting 1@1 + 1@2 files
+2022/10/31-09:33:25.584 58c8 Generated table #50@1: 379 keys, 464510 bytes
+2022/10/31-09:33:25.584 58c8 Compacted 1@1 + 1@2 files => 464510 bytes
+2022/10/31-09:33:25.585 58c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-09:33:25.585 58c8 Delete type=2 #47
+2022/10/31-09:33:25.585 58c8 Delete type=2 #49
+2022/10/31-09:33:25.586 58c8 Manual compaction at level-1 from '\x00\x0c\x01\x1f\x03\x00\x80a<\x90}xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 40615 : 1 .. (end); will stop at (end)

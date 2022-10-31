@@ -1,0 +1,42 @@
+2022/10/31-09:34:29.513 60c Reusing MANIFEST C:\Programovanie\Gauge\FinalTest\chromeDebug\Default\IndexedDB\https_greysonconsultingsro.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/31-09:34:29.513 60c Recovering log #48
+2022/10/31-09:34:29.513 60c Reusing old log C:\Programovanie\Gauge\FinalTest\chromeDebug\Default\IndexedDB\https_greysonconsultingsro.lightning.force.com_0.indexeddb.leveldb/000048.log 
+2022/10/31-10:05:41.801 7cc0 Level-0 table #53: started
+2022/10/31-10:05:41.820 7cc0 Level-0 table #53: 2213802 bytes OK
+2022/10/31-10:05:41.822 7cc0 Delete type=0 #48
+2022/10/31-10:33:34.251 bb24 Compacting 1@1 + 1@2 files
+2022/10/31-10:33:34.269 bb24 Generated table #54@1: 497 keys, 740841 bytes
+2022/10/31-10:33:34.269 bb24 Compacted 1@1 + 1@2 files => 740841 bytes
+2022/10/31-10:33:34.270 bb24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-10:33:34.271 bb24 Delete type=2 #50
+2022/10/31-10:33:34.271 bb24 Delete type=2 #53
+2022/10/31-10:34:16.997 3c78 Level-0 table #56: started
+2022/10/31-10:34:17.014 3c78 Level-0 table #56: 2529080 bytes OK
+2022/10/31-10:34:17.016 3c78 Delete type=0 #52
+2022/10/31-10:34:22.934 7cc0 Compacting 1@1 + 1@2 files
+2022/10/31-10:34:22.945 7cc0 Generated table #57@1: 461 keys, 240040 bytes
+2022/10/31-10:34:22.945 7cc0 Compacted 1@1 + 1@2 files => 240040 bytes
+2022/10/31-10:34:22.946 7cc0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-10:40:42.141 8aa8 Level-0 table #59: started
+2022/10/31-10:40:42.157 8aa8 Level-0 table #59: 2434334 bytes OK
+2022/10/31-10:40:42.159 8aa8 Delete type=2 #54
+2022/10/31-10:40:42.159 8aa8 Delete type=0 #55
+2022/10/31-10:40:42.159 8aa8 Delete type=2 #56
+2022/10/31-10:49:18.936 8aa8 Compacting 1@1 + 1@2 files
+2022/10/31-10:49:18.949 8aa8 Generated table #60@1: 699 keys, 920582 bytes
+2022/10/31-10:49:18.949 8aa8 Compacted 1@1 + 1@2 files => 920582 bytes
+2022/10/31-10:49:18.950 8aa8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-10:49:18.950 8aa8 Delete type=2 #57
+2022/10/31-10:49:18.950 8aa8 Delete type=2 #59
+2022/10/31-10:53:20.465 7cc0 Level-0 table #62: started
+2022/10/31-10:53:20.486 7cc0 Level-0 table #62: 3254807 bytes OK
+2022/10/31-10:53:20.491 7cc0 Delete type=0 #58
+2022/10/31-10:53:46.587 8aa8 Compacting 1@1 + 1@2 files
+2022/10/31-10:53:46.601 8aa8 Generated table #63@1: 865 keys, 1177185 bytes
+2022/10/31-10:53:46.601 8aa8 Compacted 1@1 + 1@2 files => 1177185 bytes
+2022/10/31-10:53:46.602 8aa8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/31-10:53:46.602 8aa8 Delete type=2 #60
+2022/10/31-10:53:46.602 8aa8 Delete type=2 #62
+2022/10/31-10:55:09.814 8aa8 Level-0 table #65: started
+2022/10/31-10:55:09.829 8aa8 Level-0 table #65: 2042970 bytes OK
+2022/10/31-10:55:09.831 8aa8 Delete type=0 #61

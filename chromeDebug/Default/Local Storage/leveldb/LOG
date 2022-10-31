@@ -1,0 +1,5 @@
+2022/10/25-17:10:47.969 55e8 Creating DB C:\Programovanie\Gauge\FinalTest\chromeDebug\Default\Local Storage\leveldb since it was missing.
+2022/10/25-17:10:47.977 55e8 Reusing MANIFEST C:\Programovanie\Gauge\FinalTest\chromeDebug\Default\Local Storage\leveldb/MANIFEST-000001
+2022/10/31-10:33:53.127 ac14 Level-0 table #5: started
+2022/10/31-10:33:53.130 ac14 Level-0 table #5: 12472 bytes OK
+2022/10/31-10:33:53.133 ac14 Delete type=0 #3

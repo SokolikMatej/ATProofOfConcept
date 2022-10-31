@@ -1,0 +1,50 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1352milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1352"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57507"}
+{"logLevel":"info","message":"Listening on port:57507"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.SeleniumGauge_DynamicElements.TC.Sales_Home.tc_ChangeGoal.editGoal' and 'org.example.SeleniumGauge_DynamicElements.TC.Sales_Home.tc_ChangeGoal.editGoal'"}
+{"logLevel":"debug","message":"Found Sales-ChangeGoal in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.GaugeKing.tc_KontaktneUdajeAdresa.vytvorSlovenskuAdresu' and 'org.example.GaugeKing.tc_KontaktneUdajeAdresa.vytvorSlovenskuAdresu'"}
+{"logLevel":"debug","message":"Found PAR-KontaktneUdajeAdresa-VytvorSlovenskuAdresu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.GaugeKing.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.GaugeKing.StepImplementation.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.GaugeKing.tc_KontaktneUdajeAdresa.upravAdresu' and 'org.example.GaugeKing.tc_KontaktneUdajeAdresa.upravAdresu'"}
+{"logLevel":"debug","message":"Found PAR-KontaktneUdajeAdresa-UpravAdresu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.GaugeKing.StepImplementation.implementation1' and 'org.example.GaugeKing.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found Open the Gauge homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.GaugeKing.StepImplementation.gotoGetStartedPage' and 'org.example.GaugeKing.StepImplementation.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.GaugeKing.tc_KontaktneUdajeAdresa.vytvorZahranicnuAdresu' and 'org.example.GaugeKing.tc_KontaktneUdajeAdresa.vytvorZahranicnuAdresu'"}
+{"logLevel":"debug","message":"Found PAR-KontaktneUdajeAdresa-VytvorZahranicnuAdresu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.SeleniumGauge_PageObject.TC.tc_EditSalesGoal.editSalesGoal' and 'org.example.SeleniumGauge_PageObject.TC.tc_EditSalesGoal.editSalesGoal'"}
+{"logLevel":"debug","message":"Found EditSalesGoal in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tOpen the Gauge homepage : public void implementation1()"}
+{"logLevel":"debug","message":"\tPAR-KontaktneUdajeAdresa-VytvorSlovenskuAdresu : public void vytvorSlovenskuAdresu() throws Exception"}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tEditSalesGoal : public void editSalesGoal() throws Exception"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException"}
+{"logLevel":"debug","message":"\tPAR-KontaktneUdajeAdresa-UpravAdresu : public void upravAdresu() throws Exception"}
+{"logLevel":"debug","message":"\tPAR-KontaktneUdajeAdresa-VytvorZahranicnuAdresu : public void vytvorZahranicnuAdresu() throws Exception"}
+{"logLevel":"debug","message":"\tSales-ChangeGoal : public void editGoal() throws Exception"}
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 60579
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+okt 27, 2022 7:12:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+okt 27, 2022 7:12:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 106
+{"logLevel":"debug","message":"Executing 'EditSalesGoal' using 'class org.example.SeleniumGauge_PageObject.TC.tc_EditSalesGoal.editSalesGoal"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
