@@ -123,3 +123,4 @@
 27-10-2022 19:23:14.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"EditGoal_PageFactory"  parameterizedStepValue:"EditGoal_PageFactory"}}
 27-10-2022 19:23:57.860 [Gauge] [DEBUG] Spec file added / modified: C:\Programovanie\Gauge\FinalTest\specs\example.spec
 27-10-2022 19:23:57.862 [Gauge] [DEBUG] Spec file added / modified: C:\Programovanie\Gauge\FinalTest\specs\example.spec
+31-10-2022 11:44:10.539 [Gauge] [DEBUG] Spec file added / modified: C:\Programovanie\Gauge\FinalTest\specs\example.spec
